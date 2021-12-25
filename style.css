@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+  }
+  h1 {
+    color: black;
+    text-shadow: 1px 1px 1px green;
+  }
+  #inputOne {
+    border: 5px solid lightblue;
+    border-radius: 5px;
+    width: 42vw;
+    margin: 0px;
+    /* margin-left: 5%; */
+  }
+  #inputTwo {
+    border: 5px solid lightblue;
+    border-radius: 5px;
+    width: 42vw;
+    margin: 0px;
+    /* margin-left: 5%;
+    margin-right: 5%; */
+  }
+  #Add {
+    margin: 10px 1%;
+    background-color: lightblue;
+    border-radius: 5px;
+    border-color: unset;
+    box-shadow: 1px 1px 3px;
+  }
+  #Subtract {
+    margin: 10px 1%;
+    background-color: lightblue;
+    border-radius: 5px;
+    border-color: unset;
+    box-shadow: 1px 1px 3px;
+  }
+  #Multiply {
+    margin: 10px 1%;
+    background-color: lightblue;
+    border-radius: 5px;
+    border-color: unset;
+    box-shadow: 1px 1px 3px;
+  }
+  #Divide {
+    margin: 10px 1%;
+    background-color: lightblue;
+    border-radius: 5px;
+    border-color: unset;
+    box-shadow: 1px 1px 3px;
+  }
+  #Remainder {
+    margin: 10px 1%;
+    background-color: lightblue;
+    border-radius: 5px;
+    border-color: unset;
+    box-shadow: 1px 1px 3px;
+  }
+  
